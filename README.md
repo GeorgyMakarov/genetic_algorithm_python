@@ -1,2 +1,3 @@
-# genetic_algorithm_python
-Using genetic algorithm for optimization
+# Genetic Algorithms in Python
+
+This repo is inspired by [Impractical Python Projects](https://nostarch.com/impracticalpythonprojects) book by Lee Vaughan.
